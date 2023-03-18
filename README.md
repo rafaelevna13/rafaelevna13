@@ -8,7 +8,6 @@
 	</a>
 </div>
 
----
 <h3 align="center">Languages and tools</h3>
 <div id="tools" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" width="40" height="40"/>&nbsp;
@@ -17,7 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 </div>
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
 </div>
   
