@@ -24,3 +24,5 @@
 	<h3>:books: Here you can find instances of my code style</h3>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelevna13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelevna13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
