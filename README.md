@@ -16,13 +16,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 </div>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
-</div>
-  
-<div id="footer" align="center">
-	<h3>:books: Here you can find instances of my code style</h3>
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelevna13)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelevna13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div id="footer"  align="center">
+	<h3>:books: Here you can find instances of my code style</h3>
+	<img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="300"/>
+</div>
